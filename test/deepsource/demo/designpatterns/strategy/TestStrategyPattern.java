@@ -26,11 +26,6 @@ public class TestStrategyPattern {
   public void tearDown() throws Exception {
   }
 
-  @Test
-  public void test() {
-    fail("Not yet implemented");
-  }
-
   // Added due to Issue #1
   @Test
   public void testStrategyPattern() {
