@@ -31,4 +31,9 @@ public class TestStrategyPattern {
     fail("Not yet implemented");
   }
 
+  // Added due to Issue #1
+  @Test
+  public void testStrategyPattern() {
+    fail("Not yet implemented");
+  }
 }
