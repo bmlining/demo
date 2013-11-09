@@ -31,4 +31,6 @@ public class TestStrategyPattern {
   public void testStrategyPattern() {
     fail("Not yet implemented");
   }
+  
+  
 }
