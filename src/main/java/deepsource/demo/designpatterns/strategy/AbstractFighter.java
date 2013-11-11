@@ -37,4 +37,9 @@ public abstract class AbstractFighter implements Fighter {
   public STRIKE_TYPE fight() {
     return fb.doFight();
   }
+
+  @Override
+  public String toString() {
+    return "Fighter { name: " + this.name + ", StrikeType: " + this.fb.doFight() + " }";
+  }
 }
